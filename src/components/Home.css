@@ -1,0 +1,57 @@
+.card {
+    padding: 20px;
+    width: 350px;
+    height: 500px;
+    margin-top: 50px;
+}
+
+.card-text {
+    width: 280px;
+}
+.flex-container {
+    display: flex;
+    background-color: #fff;
+}
+.flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 25px;
+    font-size: 35px;
+}
+.btn-primary {
+    margin-top: 20px;
+    width: 275px;
+}
+.price {
+    margin-top: 10px;
+    font-weight: bold;
+}
+.km{
+    color: rgb(114, 114, 114);
+    margin-top: -15px;
+}
+.book {
+    margin-top: -20px;
+    width: 100px;
+    height: 40px;
+    border-radius: 3px;
+    
+}
+.bike-blog{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 2px;
+    padding: 10px;
+}
+.bike-blog1{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 2px;
+    padding: 10px;
+}
+.bike-blog2{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 2px;
+    padding: 10px;
+}
